@@ -1,7 +1,7 @@
-# Baseball Stats Analyzer
+# Mario Basketball Game
 
 ## Description
-The Baseball Stats Analyzer is a Java program designed to analyze and display statistics for baseball players. It reads player data from a text file, calculates various batting metrics such as batting average, on-base percentage, hits, walks, strikeouts, and hits by pitch, and then displays league leaders for each category.
+The Mario Basketball Game is a Java program designed to analyze and display statistics for baseball players. It reads player data from a text file, calculates various batting metrics such as batting average, on-base percentage, hits, walks, strikeouts, and hits by pitch, and then displays league leaders for each category.
 
 ## Features
 - **Data Input**: Reads player data from a text file in a specific format.
